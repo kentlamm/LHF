@@ -34,6 +34,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.3",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/apple-128x128.png",
+    "noImageResize": "",
+    "сanonical-url": "",
     "uniqCompNum": 3,
     "versionPublish": "4.10.3"
   },
