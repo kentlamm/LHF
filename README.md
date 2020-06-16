@@ -1,2 +1,0 @@
-# LHF
-GitHub Pages
